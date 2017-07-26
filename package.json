@@ -1,0 +1,23 @@
+{
+  "name": "full-screen-web-app",
+  "version": "1.0.0",
+  "description": "This is a prototype for creating full screen web applications.",
+  "main": "sw.js",
+  "dependencies": {
+    "sw-toolbox": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBCarney/full-screen-web-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JBCarney/full-screen-web-app/issues"
+  },
+  "homepage": "https://github.com/JBCarney/full-screen-web-app#readme"
+}
